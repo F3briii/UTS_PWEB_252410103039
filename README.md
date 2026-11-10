@@ -2,7 +2,7 @@
 
 ## Penjelasan Singkat
 
-Game Vault adalah website koleksi game bertema pixel yang dibuat dengan Laravel (MVC) dan Blade templating. Pengguna login dengan username, lalu masuk ke dashboard, halaman profil, dan halaman pengelolaan yang menampilkan daftar koleksi game (judul, genre, platform, status, dan rating). Data ditampilkan dari array di Controller tanpa database.
+Koleksi adalah website koleksi game bertema pixel.pertama Pengguna login dengan username, lalu masuk ke dashboard, halaman profil, dan halaman pengelolaan yang menampilkan daftar koleksi game (judul, genre, platform, status, dan rating). Data ditampilkan dari array di Controller tanpa database.
 
 ## Screenshot
 
